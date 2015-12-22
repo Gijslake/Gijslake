@@ -1,0 +1,50 @@
+body{
+    background-color:#FFFFFF;
+}
+#Title {
+    font-family: "Times New Roman", Times, serif;
+    color: #0B99BC;
+    text-align:center;
+}
+#navigatie{
+	top:60px;
+	left:50%;
+	margin-left:-254px;
+	text-align:center;
+	align-items:center;
+}
+#tabsul{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-align: center;
+}
+#tabsli{
+    display: inline;
+	border: 2px solid #0B99BC;
+	font-family: "Times New Roman", Times, serif;
+	color: #E0E0E0;
+	padding: 5px;
+	border-radius: 5px 5px;
+	background-color: #E0E0E0;
+}
+
+a:link {
+    color: #4CA8A1;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #385B9F;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #39B1C6;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #B6DEDC;
+    text-decoration: underline;
+}
