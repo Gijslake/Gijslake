@@ -48,3 +48,53 @@ a:active {
     color: #B6DEDC;
     text-decoration: underline;
 }
+#homefoto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #0B99BC;
+    position: relative;
+    top: 10px;
+}
+#hometekst{
+    font-family: "Times New Roman", Times, serif;
+    color: #0B99BC;
+    text-align:center;
+}
+#fotolijst{
+    list-style-type: none;
+    text-align:center;
+    font-family: "Times New Roman", Times, serif;
+    font-style:italic;
+    color: #0B99BC;
+}
+
+#foto{
+    display: block;
+    border: 2px solid #0B99BC;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 10px;
+}
+#fototekst{
+    text-align: justify;
+    text-align:center;
+}
+#geschiedenistekst{
+    font-family: "Times New Roman", Times, serif;
+    color: #0B99BC;
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+#infolijst{
+    list-style-type: none;
+    text-align:left;
+    font-family: "Times New Roman", Times, serif;
+    color: #0B99BC;
+    width:400px;
+    margin-left: auto;
+    margin-right: auto;
+}
